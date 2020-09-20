@@ -1,3 +1,55 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+DefaultContentLanguage = "ja" # Theme's display language, supports: en, fr, zh, zh-hant
+baseURL = "http://example.org/" 
+copyright = "This is a customized copyright." 
+languageCode = "ja-jp" 
+theme = "diary" 
+title = "Robohan Blog" 
+# googleAnalytics = "UA-123-45"
+
+[markup]
+[markup.highlight]
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "perldoc"
+tabWidth = 4
+
+[params]
+enableGitalk = true
+subtitle = "大阪大学公認 ロボット製作団体"
+
+# Twitter Card and Open Graph settings
+description = "My HomePage Description" # will set 'og:description'
+enableOpenGraph = true 
+enableTwitterCards = true 
+title = "Robohan Blog" # will set 'og:site_name'
+
+[params.gitalk]
+client_id = "your client id"
+client_secret = "your client secret"
+owner = "user"
+repo = "repo name"
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[[menu.main]]
+name = "カテゴリー/Categories"
+url = "/categories"
+weight = 2
+[[menu.main]]
+name = "タグ/Tags"
+url = "/tags"
+weight = 3
+[[menu.main]]
+name = "過去の記事/Archive"
+url = "/posts"
+weight = 1
+[[menu.main]]
+name = "RSS Feed"
+url = "/index.xml"
+weight = 4
