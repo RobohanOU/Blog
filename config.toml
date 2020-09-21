@@ -1,5 +1,5 @@
 DefaultContentLanguage = "ja" # Theme's display language, supports: en, fr, zh, zh-hant
-baseURL = "http://example.org/" 
+baseURL = "https://robohanou.github.io/Blog/" 
 copyright = "This is a customized copyright." 
 languageCode = "ja-jp" 
 theme = "diary" 
