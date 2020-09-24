@@ -2,11 +2,21 @@
   link: post/rich-content/
 # - name: Mus
 #   link: /categories/music/
+- name: Members
+  submenu:
+    - name: リーダー・機構
+      link: members/mech/
+    - name: 制御・回路
+      link: members/soft/
+    - name: OB・OG
+      link: members/ob-og/
 - name: Links
   submenu:
-    - name: LinkedIn
-      link: https://www.linkedin.com/
+    - name: HP
+      link: https://www.robohan.net/
     - name: Twitter
-      link: https://twitter.com/
+      link: https://twitter.com/Robohan_
+    - name: mech
+      link: members/mech/
 - name: About
   link: about/
