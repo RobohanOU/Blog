@@ -1,7 +1,3 @@
-- name: Archives
-  link: post/rich-content/
-# - name: Mus
-#   link: /categories/music/
 - name: Members
   submenu:
     - name: リーダー・機構
@@ -18,5 +14,3 @@
       link: https://twitter.com/Robohan_
     - name: mech
       link: members/mech/
-- name: About
-  link: about/
