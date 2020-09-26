@@ -1,23 +1,40 @@
-# hugoBasicExample
+# Robohan Blog
 
-This repository offers an example site for [Hugo](https://gohugo.io/) and also it provides the default content for demos hosted on the [Hugo Themes Showcase](https://themes.gohugo.io/).
+## 概要
 
-# Using
+Robohan Blog
 
-1. [Install Hugo](https://gohugo.io/overview/installing/)
-2. Clone this repository
+URL；https://robohanou.github.io/Blog/
+
+## 環境構築
+
+### Windows
+
+## Git Clone
+
+下記コマンドにてgit clone & git submodule 更新ができる。
+
+git submodule はテンプレートテーマに適用されている。
+
 ```bash
-git clone https://github.com/gohugoio/hugoBasicExample.git
-cd hugoBasicExample
+git clone git@github.com:RobohanOU/Blog.git
+cd Blog
+git submodule init
+git submodule update
 ```
-3. Clone the repository you want to test. If you want to test all Hugo Themes then follow the instructions provided [here](https://github.com/gohugoio/hugoThemes#installing-all-themes)
-4. Run Hugo and select the theme of your choosing
-```bash
-hugo server -t YOURTHEME
-```
-5. Under `/content/` this repository contains the following:
-- A section called `/post/` with sample markdown content
-- A headless bundle called `homepage` that you may want to use for single page applications. You can find instructions about headless bundles over [here](https://gohugo.io/content-management/page-bundles/#headless-bundle)
-- An `about.md` that is intended to provide the `/about/` page for a theme demo
-6. If you intend to build a theme that does not fit in the content structure provided in this repository, then you are still more than welcome to submit it for review at the [Hugo Themes](https://github.com/gohugoio/hugoThemes/issues) respository
 
+## 新規記事投稿
+
+下記コマンドにて投稿記事の追加ができる。拡張子(.md)がないとページとして認識されないので注意。
+
+```bash
+hugo new post/(投稿日時).md
+```
+
+## ローカル動作確認
+
+下記コマンドを動作後、http://localhost:1313/Blog/ にアクセスするとサイトの動作確認ができる。
+
+```bash
+hugo server
+```
