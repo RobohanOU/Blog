@@ -10,6 +10,28 @@ URL；https://robohanou.github.io/Blog/
 
 ### Windows
 
+Powershellを起動して、下記コマンドを実行。
+
+```bash
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
+iwr -useb get.scoop.sh | iex
+```
+
+その後、下記コマンドが実行できるか確認する。<br>
+（このコマンドが実行できなかったらちゃんとインストールできてないので再度試してみること）
+
+```bash
+scoop help
+```
+
+最後に、下記コマンドを実行してhugo extendedをインストールする。
+
+```bash
+scoop install hugo-extended
+```
+
+参考；https://www.hahahahaha-nnn.work/post/hugo_in_windows/
+
 ## Git Clone
 
 下記コマンドにてgit clone & git submodule 更新ができる。
