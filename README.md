@@ -57,7 +57,7 @@ hugo new post/(投稿日時).md
 
 ## ローカル動作確認
 
-下記コマンドを動作後、http://localhost:1313/Blog/ にアクセスするとサイトの動作確認ができる。
+下記コマンドを動作後、http://localhost:1313/ にアクセスするとサイトの動作確認ができる。
 
 ```bash
 hugo server
