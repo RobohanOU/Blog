@@ -34,6 +34,14 @@ scoop install hugo-extended
 
 参考；https://www.hahahahaha-nnn.work/post/hugo_in_windows/
 
+ここまで出来たらPowerShellを一度閉じて、もう一度PowerShellを開いて下記コマンドを実行する
+
+```bash
+hugo
+```
+
+ここで、コマンドが存在しない系のエラーが出たら、環境変数であるPATHがうまく通っていないので修正をする。
+
 ## Git Clone
 
 下記コマンドにてgit clone & git submodule 更新ができる。
