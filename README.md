@@ -6,7 +6,7 @@
 
 Robohan Blog
 
-URL；https://robohanou.github.io/Blog/
+URL；https://blog2.robohan.net/
 
 ## 環境構築
 
@@ -41,7 +41,7 @@ scoop install hugo-extended
 git submodule はテンプレートテーマに適用されている。
 
 ```bash
-git clone git@github.com:RobohanOU/Blog.git
+git clone https://github.com/RobohanOU/Blog.git
 cd Blog
 git submodule init
 git submodule update
