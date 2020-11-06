@@ -6,7 +6,7 @@
 
 Robohan Blog
 
-URL；https://robohanou.github.io/Blog/
+URL；https://blog2.robohan.net/
 
 ## 環境構築
 
@@ -34,6 +34,14 @@ scoop install hugo-extended
 
 参考；https://www.hahahahaha-nnn.work/post/hugo_in_windows/
 
+ここまで出来たらPowerShellを一度閉じて、もう一度PowerShellを開いて下記コマンドを実行する
+
+```bash
+hugo
+```
+
+ここで、コマンドが存在しない系のエラーが出たら、環境変数であるPATHがうまく通っていないので修正をする。
+
 ## Git Clone
 
 下記コマンドにてgit clone & git submodule 更新ができる。
@@ -41,7 +49,7 @@ scoop install hugo-extended
 git submodule はテンプレートテーマに適用されている。
 
 ```bash
-git clone git@github.com:RobohanOU/Blog.git
+git clone https://github.com/RobohanOU/Blog.git
 cd Blog
 git submodule init
 git submodule update
@@ -57,7 +65,7 @@ hugo new post/(投稿日時).md
 
 ## ローカル動作確認
 
-下記コマンドを動作後、http://localhost:1313/Blog/ にアクセスするとサイトの動作確認ができる。
+下記コマンドを動作後、http://localhost:1313/ にアクセスするとサイトの動作確認ができる。
 
 ```bash
 hugo server
