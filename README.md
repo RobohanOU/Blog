@@ -2,9 +2,17 @@
 
 ## 概要
 
-Robohan Blog
+大阪大学ロボット製作団体 Robohan 公式ブログ リポジトリ
 
-URL；https://robohanou.github.io/Blog/
+URL：[http://blog2.robohan.net/](http://blog2.robohan.net/)
+
+### 構成
+
+- [Hugo](https://gohugo.io/)
+- [Clarity](https://themes.gohugo.io/hugo-clarity/)(Hugo Theme)
+- [GitHub Actions](https://github.com/RobohanOU/Blog/actions)
+
+[サンプルページ](http://blog2.robohan.net/sample/)
 
 ## 環境構築
 
@@ -30,7 +38,7 @@ scoop help
 scoop install hugo-extended
 ```
 
-参考；https://www.hahahahaha-nnn.work/post/hugo_in_windows/
+[参考リンク](https://www.hahahahaha-nnn.work/post/hugo_in_windows/)
 
 ## Git Clone
 
