@@ -4,39 +4,6 @@
 
 ## 概要
 
-* Hugo
-* GitHub Actions
-* Git Submodule
-
-## 環境構築
-
-0. Git, VScodeの環境構築を行う。
-1. [参考リンク](https://www.hahahahaha-nnn.work/post/hugo_in_windows/)をもとに、Hugoの環境構築を行う。
-2. 下記コマンドをgit cloneしたいディレクトリで実行する。
-
-``` bash
-git clone https://github.com/RobohanOU/Blog.git
-```
-
-3. 下記コマンドを実行して、git submoduleをcloneする。
-
-``` bash
-cd Blog
-git submodule init
-git submodule update
-```
-
-4. 下記コマンドを実行して、ブラウザでhttp://localhost:8080/ にアクセスしてサイトを確認できるか見る。
-
-``` bash
-hugo server
-```
-
-<!--以下、テンプレREADME-->
-# hugoBasicExample
-
-## 概要
-
 Robohan Blog
 
 URL；https://robohanou.github.io/Blog/
