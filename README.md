@@ -50,6 +50,30 @@ hugo
 
 ここで、コマンドが存在しない系のエラーが出たら、環境変数であるPATHがうまく通っていないので修正をする。
 
+## 作業手順
+
+1. git cloneする
+2. develop/masterをcheckoutする
+3. develop/（ブランチ名）を作成・checkoutする
+4. 編集して、commit、pushする
+5. develop/（ブランチ名）からdevelop/masterブランチへPull requestしてmergeする
+6. develop/masterブランチからmasterへPull requestしてmergeする
+
+適宜、issueを立てて問題解決を行うようにするとよい。
+
+### branch構成
+
+- master
+  - このbranchにコミットすると、GitHub Actionsが実行さる
+  - Hugoの静的ページ（Markdown→HTML）生成が行われる
+  - そして、出来たものをgh-pagesにpushしてくれて公開される
+- develop/master
+  - 編集段階のメインブランチ
+  - ここから、masterブランチへPull requestしてmergeする
+- develop/（ブランチ名）
+  - 編集段階のサブブランチ
+  - ここから、develop/masterブランチへPull requestしてmergeする
+
 ## Git Clone
 
 下記コマンドにてgit clone & git submodule 更新ができる。
