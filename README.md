@@ -87,6 +87,21 @@ git submodule init
 git submodule update
 ```
 
+## git branch
+
+基本的にmasterはPull requestにてコミットすること！（masterにコミットすると、ページとして公開されてしまうため）
+
+- master ->これにcommitすると、GitHub Actionsが動作してgh-pagesにコミットされ、サイトが公開される
+- develop/master - 編集段階の元
+
+### branch作業方法
+
+1. develop/masterをもとに作業用ブランチを、develop/(ブランチ名)で作成する。
+2. develop/(ブランチ名)で作業を行ってcommit&pushを行う。
+3. [Pull request](https://github.com/RobohanOU/Blog/pulls)にてdevelop/(ブランチ名)→develop/masterへmargeの申請を行う。
+4. 問題がなければ、mergeを行う。
+5. 記事を更新するときは、[Pull request](https://github.com/RobohanOU/Blog/pulls)にてdevelop/master→masterへmargeの申請を行い、mergeを行う。
+
 ## 新規記事投稿
 
 下記コマンドにて投稿記事の追加ができる。拡張子(.md)がないとページとして認識されないので注意。
