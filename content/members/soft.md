@@ -6,29 +6,58 @@ draft: false
 
 ## 制御
 
-{{< figure src="https://pbs.twimg.com/media/Efw_oEAXYAEnTO4?format=jpg&name=360x360">}}
+|          | {{< figure src="/img/members/2018/kawamoto.jpg" width="200">}} |
+| -------: | :------------------------------------------------------------: |
+|     Name |                              川本                              |
+|  COLLEGE |                      工学部電子情報工学科                      |
+| ENTRANCE |                              2018                              |
+|   ORIGIN |                             大阪府                             |
+|     一言 |              …………………………………………………………………………………….。               |
 
-| Name     | 川本                                |
-| -------- | ----------------------------------- |
-| COLLEGE  | 工学部電子情報工学科                |
-| ENTRANCE | 2018                                |
-| ORIGIN   | 大阪府                              |
-| 一言     | …………………………………………………………………………………….。 |
+|          | {{< figure src="/img/members/2018/toriyama.jpg" width="200">}} |
+| -------: | :------------------------------------------------------------: |
+|     Name |                              鳥山                              |
+|  COLLEGE |                       工学部応用理工学科                       |
+| ENTRANCE |                              2018                              |
+|   ORIGIN |                              長崎                              |
+|     一言 |                          ばるさみこす                          |
 
-{{< figure src="https://pbs.twimg.com/media/Efw_oEAXYAEnTO4?format=jpg&name=360x360">}}
+|          | {{< figure src="/img/members/2019/hozu.jpg" width="200">}} |
+| -------: | :--------------------------------------------------------: |
+|     Name |                            保津                            |
+|  COLLEGE |                    工学部電子情報工学科                    |
+| ENTRANCE |                            2019                            |
+|   ORIGIN |                            兵庫                            |
+|     一言 |                   よろしくお願いします。                   |
 
-| Name     | 鳥山               |
-| -------- | ------------------ |
-| COLLEGE  | 工学部応用理工学科 |
-| ENTRANCE | 2018               |
-| ORIGIN   | 長崎               |
-| 一言     | ばるさみこす       |
+|          | {{< figure src="/img/members/2019/yamamichi.jpg" width="200">}} |
+| -------: | :-------------------------------------------------------------: |
+|     Name |                              山道                               |
+|  COLLEGE |                     基礎工学部　情報科学科                      |
+| ENTRANCE |                              2019                               |
+|   ORIGIN |                              長崎                               |
+|     一言 |               やります。（何をとは言ってない。）                |
 
-{{< figure src="https://pbs.twimg.com/media/Efw_oEAXYAEnTO4?format=jpg&name=360x360">}}
+|          | {{< figure src="/img/members/2019/mori.jpg" width="200">}} |
+| -------: | :--------------------------------------------------------: |
+|     Name |                             森                             |
+|  COLLEGE |                      理学部　物理学科                      |
+| ENTRANCE |                            2019                            |
+|   ORIGIN |                            愛知                            |
+|     一言 |                 養生になりたい人生だった。                 |
 
-| Name     | 保津                   |
-| -------- | ---------------------- |
-| COLLEGE  | 工学部電子情報工学科   |
-| ENTRANCE | 2019                   |
-| ORIGIN   | 兵庫                   |
-| 一言     | よろしくお願いします。 |
+|          | {{< figure src="/img/members/2019/yokoyama-y.jpg" width="200">}} |
+| -------: | :--------------------------------------------------------------: |
+|     Name |                               横山                               |
+|  COLLEGE |                      工学部　電子情報工学科                      |
+| ENTRANCE |                               2019                               |
+|   ORIGIN |                               岡山                               |
+|     一言 |                            努めます。                            |
+
+|          | {{< figure src="/img/members/2019/tsuzino.jpg" width="200">}} |
+| -------: | :-----------------------------------------------------------: |
+|     Name |                             辻野                              |
+|  COLLEGE |                    工学部　電子情報工学科                     |
+| ENTRANCE |                             2019                              |
+|   ORIGIN |                             滋賀                              |
+|     一言 |                         ちくわ大明神                          |
