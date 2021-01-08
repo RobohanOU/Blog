@@ -4,27 +4,49 @@ date: 2020-09-24T14:49:12+09:00
 draft: false
 ---
 
-## 2020年度
+## 2017年度 入学
 
-{{< figure src="https://pbs.twimg.com/media/Efw_oEAXYAEnTO4?format=jpg&name=360x360">}}
+|          | {{< figure src="/img/members/2017/kawakami.jpg" width="200">}} |
+| -------: | :------------------------------------------------------------: |
+|     Name |                              川上                              |
+|  COLLEGE |                       工学部応用理工学科                       |
+| ENTRANCE |                              2017                              |
+|   ORIGIN |                              兵庫                              |
+|     一言 |                       3ヵ月回路班でした                        |
 
-| Name     | 川上               |
-| -------- | ------------------ |
-| COLLEGE  | 工学部応用理工学科 |
-| ENTRANCE | 2017               |
-| ORIGIN   | 兵庫               |
-| 一言     | 3ヵ月回路班でした  |
+|          | {{< figure src="/img/members/2017/sugimoto.jpg" width="200">}} |
+| -------: | :------------------------------------------------------------: |
+|     Name |                              杉本                              |
+|  COLLEGE |                    基礎工学部システム科学科                    |
+| ENTRANCE |                              2017                              |
+|   ORIGIN |                            兵庫かな                            |
+|     一言 |                          雲になりたい                          |
 
-{{< figure src="https://pbs.twimg.com/media/Efw_oEAXYAEnTO4?format=jpg&name=360x360">}}
+|          | {{< figure src="/img/members/2017/hirao.jpg" width="200">}} |
+| -------: | :---------------------------------------------------------: |
+|     Name |                            平尾                             |
+|  COLLEGE |                     工学部応用理工学科                      |
+| ENTRANCE |                            2017                             |
+|   ORIGIN |                           大阪府                            |
+|     一言 |              モバイルでデュアルなディスプレー               |
 
-| Name     | 杉本                     |
-| -------- | ------------------------ |
-| COLLEGE  | 基礎工学部システム科学科 |
-| ENTRANCE | 2017                     |
-| ORIGIN   | 兵庫かな                 |
-| 一言     | 雲になりたい             |
+|          | {{< figure src="/img/members/2017/izubuchi.jpg" width="200">}} |
+| -------: | :------------------------------------------------------------: |
+|     Name |                              泉渕                              |
+|  COLLEGE |                     工学部　電子情報工学科                     |
+| ENTRANCE |                              2017                              |
+|   ORIGIN |                             大阪府                             |
+|     一言 |                           加工したい                           |
 
-## 2019年度
+|          | {{< figure src="/img/members/2017/katsuse.jpg" width="200">}} |
+| -------: | :-----------------------------------------------------------: |
+|     Name |                             勝瀬                              |
+|  COLLEGE |                    工学部　電子情報工学科                     |
+| ENTRANCE |                             2017                              |
+|   ORIGIN |                          淡路島の隣                           |
+|     一言 |                    一応人間です(回路の長)                     |
+
+## 2016年度 入学
 
 {{< figure src="https://pbs.twimg.com/media/Efw_oEAXYAEnTO4?format=jpg&name=360x360">}}
 
