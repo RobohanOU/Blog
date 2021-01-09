@@ -25,9 +25,9 @@ unsafe = true # change to false to disable inclusion of rawHTML and math functio
 xhtml = false 
 
 [params]
-author = "大阪大学ロボット製作団体 Robohan" 
-introDescription = "Technologist, perpetual student, teacher, continual incremental improvement." 
-largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
+author = "大阪大学公認 ロボット 製作団体 Robohan" 
+introDescription = "NHK学生ロボコン優勝を目指して" 
+largeTwitterCard = true # set to true if you want to show a large twitter card image. The default is a small twitter card image
 twitter = "@Robohan_" 
 # description = "" # set your site's description here. will be use for home page content meta tags (seo). Alternatively set this description in your homepage content file i.e content/_index.md. Whatever is set in the latter will take precedence
 
