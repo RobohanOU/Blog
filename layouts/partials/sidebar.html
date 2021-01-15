@@ -1,8 +1,9 @@
 {{ $title := .Title }}
+{{ $sidelogo := .Site.Params.SidebarImage }}
 <aside class="sidebar">
   <section class="sidebar_inner">
     <div>
-      <img src="logos/robohan.png">
+      <img src='{{ absURL $sidelogo }}'>
     </div>
     <div style="text-align:center;">
       {{ .Site.Params.IntroDescription }}
@@ -10,7 +11,9 @@
     <div style="text-align:center;">
       <a href='https://www.robohan.net/' class="button mt-1" role="button">公式HP はこちら</a>
     </div>
-    <a class="twitter-timeline" data-height="800" href="https://twitter.com/Robohan_?ref_src=twsrc%5Etfw">Tweets by Robohan_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a href="https://twitter.com/Robohan_" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @Robohan_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a class="twitter-timeline" data-height="800" data-link-color="#00008b" href="https://twitter.com/Robohan_">Tweets by Robohan_</a>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     <h2 class="mt-4">Featured Posts</h2>
     <ul>
       {{ range where .Site.RegularPages "Params.featured" true }}
