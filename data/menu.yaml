@@ -1,4 +1,4 @@
-- name: Members
+- name: メンバー紹介
   submenu:
     - name: リーダー・機構
       link: members/mech/
@@ -12,5 +12,3 @@
       link: https://www.robohan.net/
     - name: Twitter
       link: https://twitter.com/Robohan_
-    - name: mech
-      link: members/mech/
