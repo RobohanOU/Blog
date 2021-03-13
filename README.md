@@ -6,7 +6,7 @@
 
 大阪大学ロボット製作団体 Robohan 公式ブログ リポジトリ
 
-URL：[http://blog2.robohan.net/](http://blog2.robohan.net/)
+URL：[http://blog.robohan.net/](http://blog.robohan.net/)
 
 ### 構成
 
