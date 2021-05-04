@@ -14,7 +14,7 @@ URL：[http://blog.robohan.net/](http://blog.robohan.net/)
 - [Clarity](https://themes.gohugo.io/hugo-clarity/)(Hugo Theme)
 - [GitHub Actions](https://github.com/RobohanOU/Blog/actions)
 
-[サンプルページ](http://blog2.robohan.net/sample/)
+[サンプルページ](http://blog.robohan.net/sample/)
 
 ## 環境構築
 
