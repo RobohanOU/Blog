@@ -69,3 +69,11 @@ draft: false
 | ENTRANCE |                              2019                              |
 |   ORIGIN |                             山口                             |
 |     一言 |              茶ひよこは福岡だけ               |
+
+|          | {{< figure src="/img/members/2019/No_image - han Robo.png" width="200">}} |
+| -------: | :-----------------------------------------------------------: |
+|     Name |                             蓬郷修一朗                              |
+|  COLLEGE |                    理学部物理学科                     |
+| ENTRANCE |                             2019                              |
+|   ORIGIN |                             大阪                              |
+|     一言 |                         !                          |
