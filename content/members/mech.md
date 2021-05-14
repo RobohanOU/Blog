@@ -16,8 +16,7 @@ draft: false
 
 ## 今年度 副リーダー
 
-
-|          | {{< figure src="https://drive.google.com/file/d/1IC2tVvAfp79X03l8KtP3mhWQ52DFFBqC/view?usp=sharing" width="200">}} |
+|          | {{< figure src="/img/members/2019/94919B1D-E9F7-4B36-8DAF-7C5715D52939 - よこっち.jpeg" width="200">}} |
 | -------: | :-------------------------------------------------------------------------------------------------: |
 |     Name |                                           横山（よこち）                                            |
 |  COLLEGE |                                      基礎工学部システム科学科                                       |
